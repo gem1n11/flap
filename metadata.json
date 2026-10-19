@@ -1,0 +1,6 @@
+{
+  "name": "Zephyr: Modern Flap",
+  "description": "A high-performance, polished modern revival of the classic flap-and-fly arcade experience with responsive physics, procedural visual themes, original bird skins, and custom Web Audio synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
